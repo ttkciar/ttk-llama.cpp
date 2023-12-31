@@ -1,6 +1,26 @@
-# llama.cpp
+# ttk-llama.cpp
 
-![llama](https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png)
+I am forking ggerganov's wonderful LLM framework to develop some ideas.
+
+Developments will be offered back to ggerganov, but time will tell if he accepts them.
+
+## Goals:
+
+-[ ] Implement self-mixing command line option `--mix`
+
+-[ ] Accepted upstream
+
+-[ ] Implement Guided Generation plugin system for arbitrary external logic
+
+-[ ] Accepted upstream
+
+-[ ] Implement model merging (passthrough only, for now)
+
+-[ ] Accepted upstream
+
+I have other half-baked ideas, but that's all I'm committing to at the moment.
+
+# ggerganov's original llama.cpp README:
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
