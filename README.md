@@ -4,19 +4,19 @@ I am forking ggerganov's wonderful LLM framework to develop some ideas.
 
 Developments will be offered back to ggerganov, but time will tell if he accepts them.
 
-## Goals:
+### Goals:
 
--[ ] Implement self-mixing command line option `--mix`
+- [ ] Implement self-mixing command line option `--mix`
 
--[ ] Accepted upstream
+- [ ] Accepted upstream
 
--[ ] Implement Guided Generation plugin system for arbitrary external logic
+- [ ] Implement Guided Generation plugin system for arbitrary external logic
 
--[ ] Accepted upstream
+- [ ] Accepted upstream
 
--[ ] Implement model merging (passthrough only, for now)
+- [ ] Implement model merging (passthrough only, for now)
 
--[ ] Accepted upstream
+- [ ] Accepted upstream
 
 I have other half-baked ideas, but that's all I'm committing to at the moment.
 
