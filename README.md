@@ -6,7 +6,7 @@ Developments will be offered back to ggerganov, but time will tell if he accepts
 
 ### Goals:
 
-- [ ] Implement self-mixing command line option `--mix`
+- [ ] Implement self-mixing command line option `--mix-layers`
 
 - [ ] Accepted upstream
 
